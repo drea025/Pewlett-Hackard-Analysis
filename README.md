@@ -18,8 +18,8 @@ The purpose of this analysis is to conduct a Database analysis for Pewlett Hacka
 
 ![retiring_titles_pic](https://user-images.githubusercontent.com/83378141/123863229-53d63100-d8f7-11eb-952e-6dcc7c9655e2.png)
 
-- Created the mentorship_eligibility table by joining the employees, department employees, and titles tables. In this case, the criterion for the join was that the employees were born in 1965 and that they were currently working at PH, in order for them to apply to the retiring/mentorship package. There were 1,549 employees eligible 
-
+- We also created the mentorship_eligibility table by joining the employees, department employees, and titles tables. In this case, the criterion for the join was that the employees were born in 1965 and that they were currently working at PH, in order for them to apply to the retiring/mentorship package. There were 1,549 employees eligible 
+<img width="948" alt="mentorship_elegibility" src="https://user-images.githubusercontent.com/100797549/187789737-2945a677-2f61-4061-8362-217acae989c2.png">
 
 - Out of those eligible employees, there are 402 Engineers, 392 Senior Staff, 332 Staff, 290 Senior Engineers, 77 Technique Leaders, and 56 Assistant Engineers. 
 
