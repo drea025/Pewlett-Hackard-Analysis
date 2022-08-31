@@ -12,8 +12,6 @@ The purpose of this analysis is to conduct a Database analysis for Pewlett Hacka
 
 - Our retiring_titles shows us the a majority of the employees of retirment age (57,668/90,398 = 64%) have senior titles.
 
-To download: [unique_titles.csv](https://github.com/nicoserrano/Pewlett-Hackard-Analysis/files/6736136/unique_titles.csv)
-
 - The unique titles table that we created is showing the most recent title for employees of retirment age.
 
 - Out of those employees leaving, there are 29,414 Senior Engineers, 28,254 Senior Staff, 14,222 Engineers, 12,243 Staff, 4,502 Technique Leaders, 1,761 Assistant Engineers, and 2 Managers. 
